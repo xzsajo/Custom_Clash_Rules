@@ -1,18 +1,17 @@
-# Clash 订阅转换模板
+# Clash 订阅转换模板合集
 
 
 项目施工中！尚不完善
 
 本项目为 [Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) 项目的衍生项目，目的在其他 Clash 软件中实现相近的使用体验。
 
-本项目所有规则文件由上游规则文件自动生成，均不存在 DNS 泄露。
+本项目部分模板文件由上游模板文件自动生成，均不存在 DNS 泄露。
 
-目前测试阶段，尚不完善
+没有太多精力维护，可能存在尚不完善
 
 - 全分组模板  
 
   规则全面，由上游项目规则自动生成，添加了依赖 GeoSite 和 GeoIP 的国内直连分流规则，适合在性能强劲无续航需求（如 PC）等设备上使用
-  
   
 - Lite 轻量化模板  
   
