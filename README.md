@@ -5,10 +5,16 @@
 
 本项目为 [Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) 项目的衍生项目，目的在其他 Clash 软件中实现相近的使用体验。
 
-本项目部分模板文件由上游模板文件自动生成，均不存在 DNS 泄露。
+本项目部分模板文件由上游模板文件自动生成，均不存在 DNS 泄露。  
+
+请务必在支持 GeoSite 数据库的 Clash 软件中使用。  
+
+GeoSite 和 GeoIP 数据库，请务必使用[Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) 的数据库。  
 
 匆忙制作，没有太多精力维护，可能存在尚不完善，甚至严重报错。  
 上报问题会修复。  
+
+移动端使用建议：“漏网之鱼”建议设置直连，避免扫码支付的时候因为冷门域名的问题导致支付页面无法打开
 
 - Full 全分组模板  
 
